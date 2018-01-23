@@ -6,5 +6,10 @@ gfazg
 udihdacbliCLKCNxisss
 hi hello lets start
 hi hello lets start
+<<<<<<< HEAD
 1234567
 >>>>>>> 8548fa97f54d4075616836198be903902a944e07
+=======
+12345678
+>>>>>>> f8ceec017e34b5868e992f7e5aa39eae445a8d57
+>>>>>>> parent of 8548fa9... msh
