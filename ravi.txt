@@ -1,4 +1,10 @@
-hi hello lets start
 
+<<<<<<< HEAD
 12345678
 gfazg
+=======
+udihdacbliCLKCNxisss
+hi hello lets start
+hi hello lets start
+1234567
+>>>>>>> 8548fa97f54d4075616836198be903902a944e07
